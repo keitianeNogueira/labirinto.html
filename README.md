@@ -1,1 +1,1 @@
-# labirinto.html
+# index.html
